@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!;I+love+coding+%26+learning!;Game+Dev+%7C+App+Dev+%7C+Forever+Student&center=true&width=380&height=45" alt="Typing SVG" />
 </p>
 
-- 🔭 I’m currently working on **a business simulation game for my thesis**
+- 🔭 I’m currently working on **a MOBA game for my thesis**
 - 🌱 I’m currently learning **Unity, C#, and system design**
 - 👯 I’m looking to collaborate on **fun 2D/3D games**
 - 💬 Ask me about **C#, game dev, Unity, or anything tech**
-- 📫 How to reach me: **nguyenvuong171104@gmail.com**
+- 📫 How to reach me: **dev.nguyenvuong171104@gmail.com**
 - ⚡ Fun fact: *I'm a night owl but trying to be a morning person ☕*
 
 ---
